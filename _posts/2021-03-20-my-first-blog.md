@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "知道你窝在家想找点事，一块钱来开黑学编程!"
+title:  "科技遇见她!"
 image: assets/images/tup.jpg
 ---
 
